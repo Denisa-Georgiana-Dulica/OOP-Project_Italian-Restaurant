@@ -1,4 +1,6 @@
 # OOP-Project_Italian-Restaurant
+
+The project is based on:
 -Customers have the opportunity to consult a menu that contains all the dishes they can order. 
 -Each preparation has a recipe consisting of the raw materials and the quantities required for the preparation. 
 -A customer can add several products from the menu to an order. 
