@@ -1,0 +1,135 @@
+10
+Spaghetti Bolognese
+35
+6
+Paste
+100
+Carne tocata
+100
+Ceapa
+50
+Usturoi
+10
+Rosii
+100
+Morcov
+50
+Penne Carbonara
+37
+5
+Paste
+100
+Bacon
+50
+Oua
+100
+Parmezan
+50
+Usturoi
+5
+Linguine alle Vongole
+45
+4
+Paste
+100
+Midii
+100
+Usturoi
+5
+Pere
+50
+Fettuccine Alfredo
+39
+4
+Paste
+100
+Unt
+40
+Smantana
+50
+Parmezan
+50
+Pasta vegana alla Norma
+40
+5
+Paste
+100
+Vinete
+50
+Usturoi
+5
+Rosii
+150
+Busuioc
+3
+Pizza Margherita
+30
+5
+Aluat pizza
+200
+Sos rosii
+100
+Mozzarella
+125
+Rosii
+50
+Busuioc
+3
+Pizza Pepperoni
+33
+5
+Aluat pizza
+200
+Sos rosii
+100
+Mozzarella
+125
+Pepperoni
+50
+Oregano
+3
+Pizza Quattro Formaggi
+41
+6
+Aluat pizza
+200
+Sos bechamel
+100
+Mozzarella
+50
+Gorgonzola
+50
+Parmezan
+50
+Ricotta
+50
+Pizza vegana
+42
+6
+Aluat pizza
+200
+Sos rosii
+100
+Tofu
+150
+Ardei
+50
+Ciuperci
+50
+Oregano
+3
+Pizza Diavola
+34
+6
+Aluat pizza
+200
+Sos rosii
+100
+Mozzarella
+125
+Salam picant
+50
+Ardei iute
+10
+Oregano
+3

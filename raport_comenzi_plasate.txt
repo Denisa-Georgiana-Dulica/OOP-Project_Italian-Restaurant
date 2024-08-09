@@ -1,0 +1,15 @@
+
+Comanda finala 1 : 
+Pizza Diavola 
+
+Comanda finala 2 : 
+Pizza vegana 
+
+Comanda finala 2 : 
+Pizza Diavola 
+
+Comanda finala: 
+Pizza vegana 
+
+Comanda finala: 
+Pizza Diavola 

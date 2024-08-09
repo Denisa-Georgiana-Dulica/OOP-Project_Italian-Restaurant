@@ -1,0 +1,56 @@
+Paste
+800
+Carne tocata
+400
+Ceapa
+300
+Usturoi
+230
+Rosii
+650
+Morcov
+300
+Bacon
+300
+Oua
+400
+Parmezan
+500
+Midii
+300
+Pere
+100
+Unt
+200
+Smantana
+200
+Vinete
+200
+Busuioc
+200
+Aluat pizza
+5000
+Sos rosii
+1000
+Mozzarella
+2000
+Pepperoni
+500
+Oregano
+200
+Sos bechamel
+500
+Gorgonzola
+200
+Ricotta
+200
+Tofu
+600
+Ardei
+200
+Ciuperci
+200
+Salam picant
+200
+Ardei iute
+200
