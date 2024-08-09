@@ -1,2 +1,4 @@
 # OOP-Project_Italian-Restaurant
-The project implements the way of managing a restaurant from the perspective of the stock of raw materials in the kitchen. It consists of 2 phases, each focusing on the same topic, but with different OOP concepts.
+-Customers have the opportunity to consult a menu that contains all the dishes they can order. 
+-Each preparation has a recipe consisting of the raw materials and the quantities required for the preparation. -A customer can add several products from the menu to an order. 
+-The program checks the availability of raw materials and launches the orders in the system or not. -The entire flow is managed based on console commands defined in a legend.
