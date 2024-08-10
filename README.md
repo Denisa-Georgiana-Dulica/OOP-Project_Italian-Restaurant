@@ -6,7 +6,7 @@ The project is based on the following functionalities:
 3.a customer can add several products from the menu to an order;
 4.the program checks the availability of raw materials and launches the orders in the system or not. 
 5.the entire flow is managed based on console commands defined in a legend;
-
+The project has been realized in Visual Studio 2022.
 
 # The first part of the project (Restaurant_Italian.cpp)
 
