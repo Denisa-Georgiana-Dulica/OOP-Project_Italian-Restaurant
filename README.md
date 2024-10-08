@@ -26,6 +26,11 @@ note: if there is not enough stock for a certain order, this will be specified;
 1. the customer will have to enter from the keyboard the exact "description" of the order and the dishes he wants;
 2. if an order is not written correctly, a message will be displayed and the customer will be asked to rewrite;
 
+![Captură de ecran 2024-10-08 223521](https://github.com/user-attachments/assets/4129ef73-a354-48a3-afde-f8f3409d684d)
+![Captură de ecran 2024-10-08 223404](https://github.com/user-attachments/assets/880ecf0e-cee3-406d-858d-073994498549)
+![Captură de ecran 2024-10-08 223308](https://github.com/user-attachments/assets/fc5c8188-0cd0-40e4-a922-fb6aac8dff9d)
+
+
 # The second part of the project (FAZA_2.cpp)
 
 The commands do not change, but the way I can access the data is different:
@@ -40,3 +45,7 @@ The commands do not change, but the way I can access the data is different:
 1. if the user will not enter any text file as arguments, he will have to choose whether to use data from CSV or binary files;
 2. if all the necessary text files are not entered in the command line, a message will be displayed;
 "meniu.txt" "restaurant_italian.txt" "retetar.txt" "materiiPrime.txt" "preparate.txt"
+
+![Captură de ecran 2024-10-08 224712](https://github.com/user-attachments/assets/46f2349a-b7d8-4b9a-86ca-2e876f01d7cc)
+![Captură de ecran 2024-10-08 223723](https://github.com/user-attachments/assets/f05497a7-104c-45f4-b48f-fa2663de9b79)
+
